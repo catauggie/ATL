@@ -26,12 +26,12 @@ A modular deep learning framework for real-time control and defect prediction in
 
 ## 📦 Metadata
 
-| Field              | Value                                                                 |
+| Field              | Value                                                                |
 |-------------------|-----------------------------------------------------------------------|
 | **Title**          | Machine Learning-Based Modular Framework for ATL                     |
-| **Version**        | v1.0.0                                                                |
+| **Version**        | v1.0.0                                                               |
 | **Authors**        | Your Name, Collaborator Name                                         |
-| **Repository**     | [GitHub Repository](https://github.com/your-username/atl-ml-framework) |
+| **Repository**     | [GitHub Repository](https://github.com/catauggue/ATL)                |
 | **License**        | MIT                                                                  |
 | **Language**       | Python 3.10+                                                         |
 | **Dependencies**   | `torch`, `numpy`                                                     |
@@ -71,10 +71,10 @@ The system can be integrated with:
 If you use this framework, please cite it as:
 
 ```bibtex
-@software{yourname2025atl,
-  author = {Your Name and Collaborator Name},
+@software{ivan2025atl,
+  author = {Ivan Malashin},
   title = {Machine Learning-Based Modular Framework for ATL},
   year = {2025},
   version = {1.0.0},
-  url = {https://github.com/your-username/atl-ml-framework}
+  url = {https://github.com/catauggue/ATL}
 }
